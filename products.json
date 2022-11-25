@@ -1,19 +1,103 @@
 [
     {
-    "brand": "Apple",
-    "phone_name": "iPhone 13 mini",
-    "slug": "apple_iphone_13_mini-11104",
-    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg"
+        "product_id": "01",
+        "brand": "Apple",
+        "phone_name": "iPhone 13 mini",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!",
+        "phones": [
+            {
+               
+                "name": "iPhone 14 pro max",
+                "price1":"50000k",
+                "price2":"40000k",
+                "use":"4 month",
+                "location":"Panchagarh",
+                "seller_name":"Neymar Jr",
+                "posted":"15 days ago",
+                "image":"https://www.mobiledokan.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "iPhone 17 pro max",
+                "price1":"70000k",
+                "price2":"40000k",
+                "use":"8 month",
+                "location":"Rangpur",
+                "seller_name":"Rahim Mia",
+                "posted":"12 days ago",
+                "image":"https://www.mobiledokan.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+           
+        ]
     },
     {
-    "brand": "Samsung",
-    "phone_name": "Samsung v-max",
-    "image": "https://fdn2.gsmarena.com/vv/pics/realme/realme-c11-1.jpg"
+        "product_id": "02",
+        "brand": "Samsung",
+        "image": "https://fdn2.gsmarena.com/vv/pics/realme/realme-c11-1.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!",
+        "phones": [
+            {
+                
+                "name": "Sumsang A03",
+                "price1":"17000k",
+                "price2":"10000k",
+                "use":"2 month",
+                "location":"Rajshahi",
+                "seller_name":"Habib Wahid",
+                "posted":"7 days ago",
+                "image":"https://www.mobiledokan.com/wp-content/uploads/2022/03/Samsung-Galaxy-A03.jpg",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+               
+                "name": "Sumsang A50",
+                "price1":"22000k",
+                "price2":"15000k",
+                "use":"4 month",
+                "location":"Dinajpur",
+                "seller_name":"Arefin Rumi",
+                "posted":"10 days ago",
+                "image":"https://www.gizmochina.com/wp-content/uploads/2019/01/Samsung-Galaxy-M10-500x500.jpg",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+           
+        ]
     },
     {
-    "brand": "Symphony ",
-    "phone_name": "Symphony i60",
-    "image": "https://mobilefactbd.com/wp-content/uploads/2019/12/Symphony-i60.jpg"
+        "product_id": "03",
+        "brand": "Symphony ",
+       "image": "https://mobilefactbd.com/wp-content/uploads/2019/12/Symphony-i60.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius veniam nostrum dolores nemo quas. Minima ullam, veniam, nesciunt quae dolore animi blanditiis deserunt, ea esse dolorum ipsum quibusdam ipsa! Corrupti at, excepturi, fugiat aut nihil neque aliquid sapiente dignissimos provident, animi molestiae ipsum. Repudiandae ipsa id nihil reiciendis soluta eos ducimus pariatur, nam architecto tenetur quo quos commodi est libero repellendus vitae. Fuga numquam nulla nam, facere neque expedita voluptatibus pariatur necessitatibus vel, dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum. Aspernatur ex quibusdam at cum nulla!",
+        "phones": [
+            {
+                "name": "Symphony G50",
+                "price1":"7000k",
+                "price2":"4000k",
+                "use":"6 month",
+                "location":"Dinajpur",
+                "seller_name":"Arefin Shaon",
+                "posted":"3 days ago",
+                "image":"https://www.bdprice.com.bd/wp-content/uploads/2022/04/Symphony-G50-Blue-Price-in-Bangladesh.jpg",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Symphony i85",
+                "price1":"9000k",
+                "price2":"6000k",
+                "use":"3 month",
+                "location":"Rangpur",
+                "seller_name":"Sazzad Hossain",
+                "posted":"5 days ago",
+                "image":"https://www.mobiledokan.co/wp-content/uploads/2022/10/Symphony-i85-Blue.jpg",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            }
+           
+        ]
     }
+  
    
+   
+  
 ]
