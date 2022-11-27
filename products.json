@@ -15,7 +15,20 @@
                 "location":"Panchagarh",
                 "seller_name":"Neymar Jr",
                 "posted":"15 days ago",
+                "phoneNumber":"01784549872",
                 "image":"https://www.mobiledokan.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "iPhone 10 pro max",
+                "price1":"40000k",
+                "price2":"25000k",
+                "use":"8 month",
+                "location":"Dhaka",
+                "seller_name":"Naimur Hossain",
+                "posted":"1 month ago",
+                "phoneNumber":"01947207927",
+                "image":"https://i0.wp.com/www.mobilebd.co/wp-content/uploads/2020/12/Apple-iPhone-XS-Max-Official-images.png?fit=500%2C500&ssl=1",
                 "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
             },
             {
@@ -26,6 +39,7 @@
                 "location":"Rangpur",
                 "seller_name":"Rahim Mia",
                 "posted":"12 days ago",
+                "phoneNumber":"01873396782",
                 "image":"https://www.mobiledokan.com/wp-content/uploads/2022/09/Apple-iPhone-14-Pro-Max.jpg",
                 "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
             }
@@ -47,7 +61,20 @@
                 "location":"Rajshahi",
                 "seller_name":"Habib Wahid",
                 "posted":"7 days ago",
+                "phoneNumber":"01784028572",
                 "image":"https://www.mobiledokan.com/wp-content/uploads/2022/03/Samsung-Galaxy-A03.jpg",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Sumsang A51",
+                "price1":"25000k",
+                "price2":"14000k",
+                "use":"8 month",
+                "location":"Rangpur",
+                "seller_name":"Hero alom",
+                "posted":"11 days ago",
+                "phoneNumber":"01947207927",
+                "image":"https://www.mobilebd.co/wp-content/uploads/2021/04/Samsung-Galaxy-A51Official-Image.jpg",
                 "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
             },
             {
@@ -59,6 +86,7 @@
                 "location":"Dinajpur",
                 "seller_name":"Arefin Rumi",
                 "posted":"10 days ago",
+                "phoneNumber":"01784000572",
                 "image":"https://www.gizmochina.com/wp-content/uploads/2019/01/Samsung-Galaxy-M10-500x500.jpg",
                 "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
             }
@@ -79,7 +107,20 @@
                 "location":"Dinajpur",
                 "seller_name":"Arefin Shaon",
                 "posted":"3 days ago",
+                "phoneNumber":"01784024677",
                 "image":"https://www.bdprice.com.bd/wp-content/uploads/2022/04/Symphony-G50-Blue-Price-in-Bangladesh.jpg",
+                "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
+            },
+            {
+                "name": "Symphony z42",
+                "price1":"13000k",
+                "price2":"8000k",
+                "use":"3.5 month",
+                "location":"Lalmonirhat",
+                "seller_name":"Ali Hossain",
+                "posted":"14 days ago",
+                "phoneNumber":"01784000555",
+                "image":"https://www.mobiledokan.co/wp-content/uploads/2022/04/Symphony-Z42-Green.jpg",
                 "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
             },
             {
@@ -90,6 +131,7 @@
                 "location":"Rangpur",
                 "seller_name":"Sazzad Hossain",
                 "posted":"5 days ago",
+                "phoneNumber":"01784120967",
                 "image":"https://www.mobiledokan.co/wp-content/uploads/2022/10/Symphony-i85-Blue.jpg",
                 "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
             }
