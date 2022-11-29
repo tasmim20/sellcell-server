@@ -59,8 +59,7 @@ async function run(){
                 const token = jwt.sign({email}, process.env.ACCESS_TOKEN, {expiresIn: '1h'})
                 // return res.send({accessToken: token})
             }
-            console.log(booking);
-            res.status(403).send({accessToken: ''})
+            // console.log(booking);
 
         })
 
