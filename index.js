@@ -57,7 +57,7 @@ async function run(){
             const booking = await bookingsCollection.findOne(query);
             if(booking){
                 const token = jwt.sign({email}, process.env.ACCESS_TOKEN, {expiresIn: '1h'})
-                // return res.send({accessToken: token})
+                return res.send({accessToken: token})
             }
             // console.log(booking);
 
@@ -66,8 +66,8 @@ async function run(){
         app.post('/bookings', async(req, res) =>{
             const booking = req.body;
             console.log(booking);
-            // const result = await bookingsCollection.insertOne(booking);
-            // res.send(result);
+            const result = await bookingsCollection.insertOne(booking);
+            res.send(result);
         })
     }
     finally{
