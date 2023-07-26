@@ -48,9 +48,8 @@ async function run(){
         });
 
         
-        app.get('/bookings', verifyJWT, async(req, res) => {
+        app.get('/bookings', async(req, res) => {
             const email = req.query.email;
-            // console.log('token', req.headers.authorization);
             const query = { email: email };
             const bookings = await bookingsCollection.find(query).toArray();
             res.send(bookings);
